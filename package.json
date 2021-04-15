@@ -1,0 +1,14 @@
+{
+  "name": "sockets-node",
+  "version": "1.0.0",
+  "description": "POC Socket Nodejs native, implement to chat.",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Socket", "NodeJS", "Chat"],
+  "author": "Yovanny Diaz <thebigyovadiaz@gmail.com>",
+  "license": "MIT"
+}
